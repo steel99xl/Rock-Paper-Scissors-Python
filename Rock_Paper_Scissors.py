@@ -1,5 +1,4 @@
 import random
-import os
 global x
 global s
 global l
