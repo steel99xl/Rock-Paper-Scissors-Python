@@ -1,3 +1,5 @@
+# by steel99xl
+# 1 Game 1 Function
 import random
 global x
 global s
