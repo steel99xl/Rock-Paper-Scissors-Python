@@ -1,6 +1,7 @@
 # by steel99xl
 # 1 Game 1 Function
 import random
+import os
 global x
 global s
 global l
